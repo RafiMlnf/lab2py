@@ -36,5 +36,13 @@ Langkah-langkah Latihan
 ![4  Ganti bahasa py](https://user-images.githubusercontent.com/115614668/197859613-3aa7603d-2d12-47e3-bbfc-8ef99ed91c29.png)
 
 5. Jalankan program print dengan run code, maka hasil print akan muncul pada kolom output
+Latihan 1
 ![5  Menjalankan Program](https://user-images.githubusercontent.com/115614668/197859639-2550dae8-28e7-49bd-a7f7-8e4e216a490d.png)
 
+Latihan 2
+Masukan angka yang akan dijumlahkan maka hasilnya akan muncul di output
+![06  Latihan 2](https://user-images.githubusercontent.com/115614668/197916104-18cffe32-69bf-49e4-a0fc-f946ac9ee010.png)
+
+Latihan 3
+Run Code atau bisa Run Python file, hasilnya akan muncul di Terminal
+![07  Latihan 3](https://user-images.githubusercontent.com/115614668/197917519-258f7f79-3d8f-4d6b-82c6-5f5091787dd9.png)
